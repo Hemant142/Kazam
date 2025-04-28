@@ -1,4 +1,4 @@
-# kazam_assignment
+# KAZAMA
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-**kazam_assignment** is a real-time Notes App where users can add and view notes instantly.  
+**Kazama** is a real-time Notes App where users can add and view notes instantly.  
 The application uses **WebSocket** (Socket.IO) for live updates, **Redis** as a caching layer, and **MongoDB** for permanent storage when note limits are exceeded.  
 It includes a fully responsive frontend built with **React** and **Tailwind CSS**.
 
