@@ -2,13 +2,12 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { addTask } from "../Services/socketService";
 import "../Styles/TaskCards.css";
-// import { api } from "../constants/api";
 
 interface Task {
   content: string;
   timestamp: string;
 }
-let api = "http://localhost:8080";
+let api = "https://kazam-api.onrender.com";
 const TaskCard = () => {
   const [taskContent, setTaskContent] = useState<string>("");
   const [tasks, setTasks] = useState<Task[]>([]);

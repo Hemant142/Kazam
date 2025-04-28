@@ -1,6 +1,5 @@
 import { io } from "socket.io-client";
-// import { api } from "../constants/api";
-let api = "http://localhost:8080";
+let api = "https://kazam-api.onrender.com";
 const socket = io(api); // Adjust the URL if deployed elsewhere
 
 export const addTask = (taskContent: string) => {
