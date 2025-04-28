@@ -108,6 +108,7 @@ Once the application is running:
 Homepage
 [![laptop.png](https://i.postimg.cc/qMk89fS0/laptop.png)](https://postimg.cc/dDxkyfJS)
 Mobile Responsive View
+
 [![mobile.png](https://i.postimg.cc/FHNnWngJ/mobile.png)](https://postimg.cc/LnQThDWH)
 
 ## Contributing
