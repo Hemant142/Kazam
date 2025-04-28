@@ -86,7 +86,7 @@ To run this project locally, follow these steps:
 
 7. **Run the frontend application**
    ```bash
-   cd ../fronkazamfrontendtend
+   cd ../kazamfrontend
    npm run dev
    ```
 
@@ -115,6 +115,4 @@ Mobile Responsive View
 Contributions are welcome!  
 Please feel free to open an issue or submit a pull request if you have suggestions for improvements.
 
-## License
 
-This project is licensed under the **MIT License**.
