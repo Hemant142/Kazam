@@ -10,7 +10,7 @@
 - [Deployed Links](#deployed-links)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
